@@ -1,10 +1,15 @@
 {
- "work": "伊勢集",
+ "work": "伊勢集（群書類従本）",
  "work_id": "gunsho10-ise",
  "repo": "kumoi-no-fumigura/ise",
  "yomi": "いせしゅう",
  "category": "私家集",
- "description": null,
+ "description": {
+  "kind": "私家集",
+  "era": "平安中期",
+  "author": "伊勢",
+  "desc": "宇多天皇の后温子に仕えた伊勢の家集。冒頭は藤原仲平との恋のいきさつを物語ふうに語る部分で始まり、贈答歌や屏風歌などを収める。上下に分かれる。"
+ },
  "editions": [
   {
    "pid": "1879527",
@@ -5881,6 +5886,6 @@
   "poems": 521,
   "editions": 1,
   "updated": "2026-10-30",
-  "updated_at": "2026-10-30T00:07:02+09:00"
+  "updated_at": "2026-10-30T08:19:37+09:00"
  }
 }
